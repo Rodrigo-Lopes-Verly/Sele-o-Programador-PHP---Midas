@@ -1,10 +1,5 @@
 <?php
 
-$n = 1;
-$n2 = 2;
-$n3 = 3;
-$n4 = 4;
-
 function CALCULAAREA($num){
 
 	$a = $num;
@@ -17,13 +12,5 @@ function CALCULAAREA($num){
 echo "N ".($a)." = ".($soma);
 
 }
-echo "</br>";
-CALCULAAREA($n);
-echo "</br>";
-CALCULAAREA($n2);
-echo "</br>";
-CALCULAAREA($n3);
-echo "</br>";
-CALCULAAREA($n4);
 
 ?>
